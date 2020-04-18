@@ -2,29 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af268f71-6c83-49a5-8d19-cfaafe44c81a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/PageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewModul/DeleteMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewModul/FindMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewModul/Listeners/AddButtonListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewModul/Listeners/FirstButtonListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewModul/Listeners/LastButtonListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewModul/Listeners/NextButtonListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewModul/Listeners/OpenButtonListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ViewModul/Listeners/PrevButtonListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/XMLcreater/XMLcreater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parser/SAXPars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test11.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CanvasRepaint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DeleteMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewModul/MainWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SAXPars.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SeeTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViewModul/SeeTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/XMLcreater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/itemOfBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/PatientReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/PageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/PageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ViewModul/DeleteMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/DeleteMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ViewModul/FindMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/FindMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ViewModul/Listeners/AddButtonListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/listeners/AddButtonListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ViewModul/Listeners/FirstButtonListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/listeners/FirstButtonListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ViewModul/Listeners/LastButtonListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/listeners/LastButtonListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ViewModul/Listeners/NextButtonListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/listeners/NextButtonListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ViewModul/Listeners/OpenButtonListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/listeners/OpenButtonListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ViewModul/Listeners/PrevButtonListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/listeners/PrevButtonListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ViewModul/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/MainWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ViewModul/SeeTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/SeeTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test3.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +53,7 @@
   </component>
   <component name="RunManager">
     <configuration name="MainWindow" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ViewModul.MainWindow" />
+      <option name="MAIN_CLASS_NAME" value="view.MainWindow" />
       <module name="laba 2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,6 +92,10 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="543" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1474.864@0.0.1474.864" timestamp="1584618058216" />
+    <state x="535" y="317" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585130763591">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="535" y="317" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1474.864@0.0.1474.864" timestamp="1585130763591" />
     <state x="468" y="179" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1584533903265">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
@@ -115,22 +112,22 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1583151034514" />
-    <state width="1431" height="139" key="GridCell.Tab.0.bottom" timestamp="1584691872067">
+    <state width="1431" height="138" key="GridCell.Tab.0.bottom" timestamp="1585141719502">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="139" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1584691872067" />
-    <state width="1431" height="139" key="GridCell.Tab.0.center" timestamp="1584691872067">
+    <state width="1431" height="138" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1585141719502" />
+    <state width="1431" height="138" key="GridCell.Tab.0.center" timestamp="1585141719502">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="139" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1584691872067" />
-    <state width="1431" height="139" key="GridCell.Tab.0.left" timestamp="1584691872067">
+    <state width="1431" height="138" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1585141719502" />
+    <state width="1431" height="138" key="GridCell.Tab.0.left" timestamp="1585141719502">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="139" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1584691872067" />
-    <state width="1431" height="139" key="GridCell.Tab.0.right" timestamp="1584691872067">
+    <state width="1431" height="138" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1585141719502" />
+    <state width="1431" height="138" key="GridCell.Tab.0.right" timestamp="1585141719502">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="139" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1584691872067" />
+    <state width="1431" height="138" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1585141719502" />
     <state width="1431" height="139" key="GridCell.Tab.1.bottom" timestamp="1584691872067">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
@@ -168,7 +165,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ViewModul/FindMenu.java</url>
+          <url>file://$PROJECT_DIR$/src/view/FindMenu.java</url>
           <line>262</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
